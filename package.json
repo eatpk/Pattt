@@ -1,0 +1,10 @@
+{
+  "name": "Pattt",
+  "version": "1.0.0",
+  "description": "cloing coin",
+  "main": "src/server.js",
+  "repository": "https://github.com/eatpk/Pattt",
+  "author": "eatpk <kangsb700@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
